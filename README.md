@@ -21,16 +21,16 @@ So, an EDA was done for the same. To predict the customer response to bank direc
 
 As mentioned earlier, we have came up with several Suggestions for the Bank Institution:
 
-    Focus on the customers who have had business before with the bank, they are more likely to stay.
-    Customers who attended the campaign for 1-3 times and spent more time on the phone during campaign are likely to subscribe.
-    Customers who have stable cash balance are more likely to deposit money in the bank.
-    3-5 days after the campaign is the best time to follow up the customers.
-    Customers with a minimum of Secondary School Education are good prospects to be targeted for the bank term deposit subscriptions.
-    Customers having no default must be targeted.
-    Contact month should be April-August.
-    Age should be 30-40 preferrably Married.
-    Contact type should be Cellular.
-    Both Housing as well as Personal Loans can be offered by the bank.
+* Focus on the customers who have had business before with the bank, they are more likely to stay.
+* Customers who attended the campaign for 1-3 times and spent more time on the phone during campaign are likely to subscribe.
+* Customers who have stable cash balance are more likely to deposit money in the bank.
+* 3-5 days after the campaign is the best time to follow up the customers.
+* Customers with a minimum of Secondary School Education are good prospects to be targeted for the bank term deposit subscriptions.
+* Customers having no default must be targeted.
+* Contact month should be April-August.
+* Age should be 30-40 preferrably Married.
+* Contact type should be Cellular.
+* Both Housing as well as Personal Loans can be offered by the bank.
 
 ## ALGORITHMS USED:
 
